@@ -1,0 +1,13 @@
+- C#
+- C# Dev Kit
+- FastEndPoints
+-ilspy-vscode
+
+- Github Pull Request
+
+- Go (Go Team at Google)
+- htmx-tags (otovo-oss)
+- Tailwind CSS Intellisense (Tailwind Labs)
+
+- Material Icon Theme (Philipp Kief)
+- SQLite (alexcvzz)
