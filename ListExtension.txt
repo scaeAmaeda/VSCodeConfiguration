@@ -1,9 +1,10 @@
 - C#
 - C# Dev Kit
 - FastEndPoints
--ilspy-vscode
+- ilspy-vscode
 
 - Github Pull Request
+- Thunder Client for VS Code
 
 - Go (Go Team at Google)
 - htmx-tags (otovo-oss)
